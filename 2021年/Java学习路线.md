@@ -1,3 +1,5 @@
+[TOC]
+
 # 前言
 
 1. 学Java第一步，先装好IDEA，勤加练习，方能熟能生巧
@@ -30,7 +32,6 @@
      - 字符串String、StringBuffer、StringBulider类
      - 数学Math类
      - 日期Data类
-     - 
 4. **接口与抽象类**
 5. **反射**
 6. **泛型**
@@ -40,7 +41,9 @@
 8. **IO流**
 9. **序列化**
 10. **异常、断言与日志**
-11. **Java8新特性**
+11. **网络编程**
+    - Netty
+12. **Java8新特性**
     - Lambda表达式
     - 方法引用
     - 默认方法
@@ -79,6 +82,8 @@
 
 《Java多线程编程实战指南（核心篇）》
 
+
+
 # 计算机网络
 
 资源：
@@ -87,24 +92,32 @@
 
 《计算机网络（谢希仁）》
 
+
+
 # 数据库
 
 1. MySQL
 2. Redis
 
+
+
 # 开发框架
 
 1. Java Web
 
-2. Spring 5
+   - Tomcat
+   - Servlet
+   - JSP
 
-3. SpringMVC
+2. Maven
 
-4. Mybatis
+3. Spring 5
 
-5. SpringBoot 2
+4. SpringMVC
 
-6. Maven
+5. Mybatis
+
+6. SpringBoot 2
 
    
 
@@ -112,8 +125,26 @@
 
 资源：
 
-力扣、牛客
+力扣：https://leetcode-cn.com/problemset/all/
+
+牛客：https://www.nowcoder.com/activity/oj?tab=0
 
 
 
 # 设计模式
+
+# 工具与中间件
+
+1. Redis**缓存**
+2. RabbitMQ、Kafka **消息队列**
+3. Nginx**网关**
+4. Shiro**安全验证**
+5. Git**版本控制**
+6. Maven**依赖管理**
+
+# ==分布式==与微服务
+
+1. Spring Cloud**一系列分布式系统开发框架的集合**
+2. Zookeeper**分布式系统的可靠协调系统**
+3. Dubbo**分布式服务框架**
+4. Docker和Kubernetes（k8s）**容器**
