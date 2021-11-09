@@ -142,9 +142,14 @@
 5. Git**版本控制**
 6. Maven**依赖管理**
 
+
+
 # ==分布式==与微服务
 
 1. Spring Cloud**一系列分布式系统开发框架的集合**
 2. Zookeeper**分布式系统的可靠协调系统**
 3. Dubbo**分布式服务框架**
-4. Docker和Kubernetes（k8s）**容器**
+4. MongoDB**分布式数据库**
+5. Elasticsearch**分布式搜索**
+6. Docker和Kubernetes（k8s）**容器**
+
