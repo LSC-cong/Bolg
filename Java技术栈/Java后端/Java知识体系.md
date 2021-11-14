@@ -75,25 +75,29 @@
 
  
 
-# 五、开发框架
+# 五、Java Web
 
-1. Java Web
+1. Tomcat
 
-   - Tomcat
-   - Servlet
-   - JSP
+2. Servlet
 
-2. Spring 5
-
-4. SpringMVC
-
-5. Mybatis
-
-6. SpringBoot 2
+3. JSP
 
    
 
-# 六、数据结构与算法
+# 六、开发框架
+
+1. Spring 5
+
+2. SpringMVC
+
+3. Mybatis
+
+4. SpringBoot 2
+
+   
+
+# 七、数据结构与算法
 
 资源：
 
@@ -103,9 +107,9 @@
 
 
 
-# 七、设计模式
+# 八、设计模式
 
-# 八、工具与中间件
+# 九、工具与中间件
 
 1. Git**版本控制**
 2. Maven**依赖管理**
@@ -116,7 +120,7 @@
 
 
 
-# 九、微服务与==分布式==
+# 十、微服务与==分布式==
 
 1. Spring Cloud**一系列分布式系统开发框架的集合**
 2. Zookeeper**分布式系统的可靠协调系统**
