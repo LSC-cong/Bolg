@@ -6,8 +6,4 @@ JRE，即Java Runtime Enviroment。提供了Java的运行环境
 
 # 二、安装IDEA
 
-1. 官网下载：
-
-
-
-1. 
+1. 官网下载：https://www.jetbrains.com/zh-cn/idea/download/#section=windows
