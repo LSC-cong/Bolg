@@ -1,3 +1,5 @@
+[TOC]
+
 # 一、安装JDK
 
 JRE，即Java Runtime Enviroment。提供了Java的运行环境
@@ -33,9 +35,11 @@ JDK，即Java Development Kit。提供了Java的开发环境和运行环境
 
 ![image-20211115111212294](https://raw.githubusercontent.com/LSC-cong/Bolg/main/cloudimages/202111151112326.png)
 
-5.IDEA的设置
+5.搞定了！
 
-- 设置IDE界面主题及字体（推荐14号，默认字体；Darcula主题）
+6.IDEA的个性化设置
+
+- 设置IDE界面主题及字体（推荐13号，默认字体；Darcula主题）
 
 ![image-20211115150625449](https://raw.githubusercontent.com/LSC-cong/Bolg/main/cloudimages/202111151506550.png)
 
