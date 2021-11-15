@@ -56,6 +56,8 @@ JDK，即Java Development Kit。提供了Java的开发环境和运行环境
 
   - 下一步
 
+  ![image-20211115160253127](https://raw.githubusercontent.com/LSC-cong/Bolg/main/cloudimages/202111151602154.png)
 
+  - 这个界面是调整您的PATH环境。第二种配置是“从命令行以及第三方软件进行Git”。该选项被认为是安全的，因为它仅向PATH添加了一些最小的Git包装器，以避免使用可选的Unix工具造成环境混乱。 您将能够从Git Bash，命令提示符和Windows PowerShell以及在PATH中寻找Git的任何第三方软件中使用Git。这也是推荐的选项。
 
-![image-20211115160253127](https://raw.githubusercontent.com/LSC-cong/Bolg/main/cloudimages/202111151602154.png)
+![image-20211115160602062](https://raw.githubusercontent.com/LSC-cong/Bolg/main/cloudimages/202111151606088.png)
