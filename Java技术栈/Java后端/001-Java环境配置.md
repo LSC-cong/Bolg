@@ -47,3 +47,15 @@ JDK，即Java Development Kit。提供了Java的开发环境和运行环境
 
 ![image-20211115150738076](https://raw.githubusercontent.com/LSC-cong/Bolg/main/cloudimages/202111151507164.png)
 
+- Git代码版本控制
+
+  - 下载Git，官网下载：https://gitforwindows.org/
+  - 安装Git，勾选如下：
+
+  ![image-20211115160021434](https://raw.githubusercontent.com/LSC-cong/Bolg/main/cloudimages/202111151600464.png)
+
+  - 下一步
+
+
+
+![image-20211115160253127](https://raw.githubusercontent.com/LSC-cong/Bolg/main/cloudimages/202111151602154.png)
